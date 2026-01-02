@@ -1,0 +1,2 @@
+Place diabetes.csv and heart.csv in this folder.
+See README.md for expected columns.
